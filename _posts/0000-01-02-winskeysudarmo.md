@@ -1,6 +1,5 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+i can show u
+the world
+shinign in shirmrering 
+idk the woong
+si i sing alone
